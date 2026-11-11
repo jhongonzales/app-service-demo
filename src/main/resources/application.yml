@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: app-service
+
+server:
+  port: 8085
